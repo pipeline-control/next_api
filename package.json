@@ -1,5 +1,5 @@
 {
-  "name": "workflowsapi",
+  "name": "next_api",
   "private": true,
   "scripts": {
     "dev": "next dev",
